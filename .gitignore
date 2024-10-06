@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Archivos y carpetas generados por Unity
 [Ll]ibrary/
 [Tt]emp/
@@ -11,3 +12,6 @@ Assets/StreamingAssets/
 *.sln
 *.userprefs
 
+=======
+Library/Artifacts/
+>>>>>>> 00f269d80eadca8ab0ef19ff9f7d1efc50a55924
